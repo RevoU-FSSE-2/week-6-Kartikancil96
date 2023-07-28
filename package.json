@@ -18,5 +18,8 @@
     "bugs": {
         "url": "https://github.com/RevoU-FSSE-2/week-6-Kartikancil96/issues"
     },
-    "homepage": "https://github.com/RevoU-FSSE-2/week-6-Kartikancil96#readme"
-},
+    "homepage": "https://github.com/RevoU-FSSE-2/week-6-Kartikancil96#readme",
+    "dependencies": {
+        "expose": "^0.1.4"
+    }
+}
