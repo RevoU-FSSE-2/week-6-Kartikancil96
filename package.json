@@ -1,0 +1,22 @@
+{
+    "name": "week-6-kartikancil96",
+    "version": "1.0.0",
+    "description": "Docker Week 6 Assignment",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RevoU-FSSE-2/week-6-Kartikancil96.git"
+    },
+    "keywords": [
+        "docker"
+    ],
+    "author": "Kartika Nurkhaidah",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RevoU-FSSE-2/week-6-Kartikancil96/issues"
+    },
+    "homepage": "https://github.com/RevoU-FSSE-2/week-6-Kartikancil96#readme"
+},
