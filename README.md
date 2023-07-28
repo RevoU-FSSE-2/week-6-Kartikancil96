@@ -6,12 +6,10 @@
 
 ## Requirement My hope may it could be pass 🙏
 1. Install docker
-   - step by step instal docker
    - Verify Installation
 2. Dockerize project
    - Use docker file t build the iimage
    - run container
-   - make sure project run
    - documentation step by step docker project
    
 
